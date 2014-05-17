@@ -13,3 +13,6 @@
 [submodule "python2-subunit"]
 	path = python2-subunit
 	url = git@github.com:christophgysin/python2-subunit.git
+[submodule "openstack-keystone-git"]
+	path = openstack-keystone-git
+	url = git@github.com:christophgysin/openstack-keystone-git.git
