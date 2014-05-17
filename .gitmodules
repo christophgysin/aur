@@ -10,3 +10,6 @@
 [submodule "python2-extras"]
 	path = python2-extras
 	url = git@github.com:christophgysin/python2-extras.git
+[submodule "python2-subunit"]
+	path = python2-subunit
+	url = git@github.com:christophgysin/python2-subunit.git
