@@ -4,3 +4,6 @@
 [submodule "openstack-keystone-dev"]
 	path = openstack-keystone-dev
 	url = git@github.com:christophgysin/openstack-keystone-dev.git
+[submodule "python2-testtools"]
+	path = python2-testtools
+	url = git@github.com:christophgysin/python2-testtools.git
