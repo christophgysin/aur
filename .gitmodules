@@ -1,0 +1,3 @@
+[submodule "include-what-you-use-svn"]
+	path = include-what-you-use-svn
+	url = git@github.com:christophgysin/include-what-you-use-svn.git
