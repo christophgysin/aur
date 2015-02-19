@@ -19,3 +19,6 @@
 [submodule "libebur128"]
 	path = libebur128
 	url = git@github.com:christophgysin/libebur128.git
+[submodule "nodejs-grovebasin"]
+	path = nodejs-grovebasin
+	url = git@github.com:christophgysin/nodejs-grovebasin.git
