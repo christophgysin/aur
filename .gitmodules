@@ -16,3 +16,6 @@
 [submodule "openstack-keystone-git"]
 	path = openstack-keystone-git
 	url = git@github.com:christophgysin/openstack-keystone-git.git
+[submodule "libebur128"]
+	path = libebur128
+	url = git@github.com:christophgysin/libebur128.git
