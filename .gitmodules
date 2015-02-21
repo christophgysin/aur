@@ -22,3 +22,6 @@
 [submodule "nodejs-grovebasin"]
 	path = nodejs-grovebasin
 	url = git@github.com:christophgysin/nodejs-grovebasin.git
+[submodule "nodejs-grovebasin-git"]
+	path = nodejs-grovebasin-git
+	url = git@github.com:christophgysin/nodejs-grovebasin-git.git
