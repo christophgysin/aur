@@ -25,3 +25,9 @@
 [submodule "nodejs-grovebasin-git"]
 	path = nodejs-grovebasin-git
 	url = git@github.com:christophgysin/nodejs-grovebasin-git.git
+[submodule "pasystray"]
+	path = pasystray
+	url = git@github.com:christophgysin/pasystray-arch.git
+[submodule "pasystray-git"]
+	path = pasystray-git
+	url = git@github.com:christophgysin/pasystray-git-arch.git
