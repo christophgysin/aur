@@ -31,3 +31,6 @@
 [submodule "pasystray-git"]
 	path = pasystray-git
 	url = git@github.com:christophgysin/pasystray-git-arch.git
+[submodule "libebur128-git"]
+	path = libebur128-git
+	url = git@github.com:christophgysin/libebur128-git.git
