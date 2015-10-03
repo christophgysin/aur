@@ -1,0 +1,66 @@
+[submodule "babeltrace"]
+	path = babeltrace
+	url = aur@aur.archlinux.org:babeltrace
+[submodule "babeltrace-git"]
+	path = babeltrace-git
+	url = aur@aur.archlinux.org:babeltrace-git
+[submodule "bashate"]
+	path = bashate
+	url = aur@aur.archlinux.org:bashate
+[submodule "libgroove-git"]
+	path = libgroove-git
+	url = aur@aur.archlinux.org:libgroove-git
+[submodule "libsoundio"]
+	path = libsoundio
+	url = aur@aur.archlinux.org:libsoundio
+[submodule "libsoundio-git"]
+	path = libsoundio-git
+	url = aur@aur.archlinux.org:libsoundio-git
+[submodule "lttng-modules"]
+	path = lttng-modules
+	url = aur@aur.archlinux.org:lttng-modules
+[submodule "lttng-modules-git"]
+	path = lttng-modules-git
+	url = aur@aur.archlinux.org:lttng-modules-git
+[submodule "lttng-tools"]
+	path = lttng-tools
+	url = aur@aur.archlinux.org:lttng-tools
+[submodule "lttng-tools-git"]
+	path = lttng-tools-git
+	url = aur@aur.archlinux.org:lttng-tools-git
+[submodule "lttngtop"]
+	path = lttngtop
+	url = aur@aur.archlinux.org:lttngtop
+[submodule "lttngtop-git"]
+	path = lttngtop-git
+	url = aur@aur.archlinux.org:lttngtop-git
+[submodule "lttng-ust"]
+	path = lttng-ust
+	url = aur@aur.archlinux.org:lttng-ust
+[submodule "lttng-ust-git"]
+	path = lttng-ust-git
+	url = aur@aur.archlinux.org:lttng-ust-git
+[submodule "nodejs-groovebasin"]
+	path = nodejs-groovebasin
+	url = aur@aur.archlinux.org:nodejs-groovebasin.git
+[submodule "nodejs-groovebasin-git"]
+	path = nodejs-groovebasin-git
+	url = aur@aur.archlinux.org:nodejs-groovebasin-git.git
+[submodule "osm-gps-map"]
+	path = osm-gps-map
+	url = aur@aur.archlinux.org:osm-gps-map.git
+[submodule "osm-gps-map-git"]
+	path = osm-gps-map-git
+	url = aur@aur.archlinux.org:osm-gps-map-git.git
+[submodule "pasystray"]
+	path = pasystray
+	url = aur@aur.archlinux.org:pasystray.git
+[submodule "pasystray-git"]
+	path = pasystray-git
+	url = aur@aur.archlinux.org:pasystray-git.git
+[submodule "tcpick"]
+	path = tcpick
+	url = aur@aur.archlinux.org:tcpick
+[submodule "titan-git"]
+	path = titan-git
+	url = aur@aur.archlinux.org:titan-git
